@@ -3,5 +3,5 @@
 "title":"اطلاعیه مهم",
 "description":"اپدیت جدیدی از این برنامه در دسترس است ، برای افزایش سرعت سرور ها میتونید همین الن از کانال تلگرام ما بروزرسانی کنید ",
 "download":"tg://join?invite=ajgm9AAnEvM4Nzk0",
-"buttonno":"yes"
+"buttonno":"no"
 }
